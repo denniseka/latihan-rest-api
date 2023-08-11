@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Dennis Eka Saputra",
+    "umur": 24,
+    "nim": "17103047",
+    "lulus": true,
+    "hobi": ["mancing", "mangan"],
+    "pembimbing": {
+      "pembimbing1": "Budi Badut",
+      "pembimbing2": "Kuda Laut"
+    }
+  },
+  {
+    "nama": "Dennis Eka Saputra",
+    "umur": 24,
+    "nim": "17103047",
+    "lulus": true,
+    "hobi": ["mancing", "mangan"],
+    "pembimbing": {
+      "pembimbing1": "Budi Badut",
+      "pembimbing2": "Kuda Laut"
+    }
+  }
+]
